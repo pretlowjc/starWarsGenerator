@@ -108,4 +108,4 @@ const quotes = [
 	}
 ];
 
-export default quotes;
+module.exports = quotes;
