@@ -1,8 +1,9 @@
 // Star Wars Quotes Generator
-// This file contains a collection of quotes from various Star Wars characters.
+// This file contains an array of objects that contain quotes from various Star Wars characters.
 // The quotes are categorized by character, movie, and trilogy.
-/*
+// Quote Source: https://parade.com/393857/lharris-2/20-of-the-most-epic-star-wars-quotes-of-all-time/
 
+/*
 	Blueprint of a quote object:
 	{
 		character: ,
@@ -12,7 +13,6 @@
 	},
 
 	Use to speed up the process of adding new quotes.
-
 */
 
 const quotes = [
@@ -107,3 +107,5 @@ const quotes = [
 		trilogy: "Original"
 	}
 ];
+
+export default quotes;
