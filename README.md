@@ -1,15 +1,18 @@
-# 🌌 Star Wars Quote Generator
+# Star Wars Quote Generator
 
-A simple Node.js command-line application that displays a random quote from the Star Wars movies. You can filter quotes by trilogy (`original`, `prequel`, `sequel`) or by movie title — or use both for more specific results.
-
+A simple Node.js command-line application that displays a random quote from the Star Wars movies.
 ---
 
 ## 🚀 Features
 
 -   🎲 Generates a random quote every time you run the program
+-   🛠️ Built with **pure JavaScript** — no dependencies required
+
+## Features to Come
+
 -   🎬 Filter by **trilogy** (`--trilogy original`)
 -   🎞️ Filter by **movie title** (`--movie "Revenge of the Sith"`)
--   🛠️ Built with **pure JavaScript** — no dependencies required
+-   Use ClackJS and turn into an interactive command-line app. 
 
 ---
 
